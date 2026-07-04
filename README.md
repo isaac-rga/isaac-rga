@@ -9,8 +9,6 @@ Currently focused on two seemingly unrelated industries:
 
 I believe great companies are designed, not discovered.
 
----
-
 ## Currently building
 
 ### 👰 Guardiola ERP
@@ -26,8 +24,6 @@ From product development to production delivery.
 Small tools, prototypes and ideas that eventually become products.
 Researching how AI agents can build software that scales.
 
----
-
 ## Philosophy
 
 I don't enjoy building software. I enjoy designing systems that make organizations better.
@@ -39,18 +35,6 @@ I don't enjoy building software. I enjoy designing systems that make organizatio
 - Sometimes it's a team.
 
 The medium changes. The thinking doesn't.
-
----
-
-## Current Projects
-
-- Guardiola ERP
-- AI Operating System experiments
-- Agent workflows
-- Internal tooling
-- Fashion manufacturing automation
-
----
 
 ## 🤖 Current Agentic Workflow
 
@@ -65,20 +49,6 @@ The medium changes. The thinking doesn't.
 | 🚀 Ready for Dev | 🧹 Tech Debt Audit |
 | | 🚢 Merge |
 
-**Principles**
-
-- One issue at a time
-- One branch per slice
-- Every change through a PR
-- Track Agentic Technical Debt
-- Keep context reusable
-
-**Principles**
-
-- Think before coding
-- Define clear product boundaries
-- Ship independently deployable slices
-- Optimize context for AI agents
 ## Let's connect
 
 If you're building interesting things around:
