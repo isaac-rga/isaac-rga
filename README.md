@@ -1,6 +1,6 @@
 # Isaac Ruiz
 
-I build systems.
+Founder • Systems Builder • Product Engineer
 
 Currently focused on two seemingly unrelated industries:
 
@@ -11,66 +11,34 @@ I believe great companies are designed, not discovered.
 
 ---
 
-## Current Focus
+## Currently building
 
-### Guardiola ERP
+### 👰 Guardiola ERP
 
-Building an AI-first Product Lifecycle Management platform for fashion.
+An AI-first operating system for luxury bridal manufacturing.
 
-Modules include:
-
-- Product Development
-- Materials & BOMs
-- Inventory
-- Manufacturing
-- Order Management
-- CRM
-- Resource Portal
-
-The goal isn't simply replacing spreadsheets.
-
-The goal is designing software that becomes part of the company's thinking.
+From product development to production delivery.
 
 ---
 
-### Agentic Software Engineering
+### ⚙️ Internal Experiments
 
-I'm deeply interested in how autonomous coding agents change software development.
-
-Current areas of exploration:
-
-- Multi-agent workflows
-- AI Roles & Skills
-- Agentic Technical Debt
-- Context Engineering
-- Human / AI collaboration
-- Product Development systems
+Small tools, prototypes and ideas that eventually become products.
+Researching how AI agents can build software that scales.
 
 ---
 
 ## Philosophy
 
-I enjoy building things that compound.
+I don't enjoy building software. I enjoy designing systems that make organizations better.
 
-Instead of asking:
+- Sometimes that system is software.
 
-> "How do I solve this problem?"
+- Sometimes it's a manufacturing process.
 
-I usually ask:
+- Sometimes it's a team.
 
-> "How do I build the system that solves this class of problems forever?"
-
----
-
-## Interests
-
-- Product Strategy
-- Software Architecture
-- Artificial Intelligence
-- Fashion Technology
-- Operations
-- Business Systems
-- Dogs 🐶
+The medium changes. The thinking doesn't.
 
 ---
 
@@ -84,11 +52,38 @@ I usually ask:
 
 ---
 
+## 🤖 Current Agentic Workflow
+
+| AI Planning Workflow | AI Implementation Workflow |
+|----------------------|----------------------------|
+| 🔬 Research | 📌 Select Issue |
+| 📝 PRD | 🎯 Configure Agent |
+| 👥 User Stories | 📚 Load Context |
+| 🏗️ Architecture | 💻 Implement |
+| ✂️ Slices | ✅ Test |
+| 📋 Issues | 🔍 Review |
+| 🚀 Ready for Dev | 🧹 Tech Debt Audit |
+| | 🚢 Merge |
+
+**Principles**
+
+- One issue at a time
+- One branch per slice
+- Every change through a PR
+- Track Agentic Technical Debt
+- Keep context reusable
+
+**Principles**
+
+- Think before coding
+- Define clear product boundaries
+- Ship independently deployable slices
+- Optimize context for AI agents
 ## Let's connect
 
 If you're building interesting things around:
 
-- AI
+- Agentic workflows
 - Software Engineering
 - Fashion Tech
 - Product Systems
